@@ -1,0 +1,3 @@
+(function (Translator) {
+    Translator.add("Нэвтрэх", "Нэвтрэх", "messages", "en");
+})(Translator);
